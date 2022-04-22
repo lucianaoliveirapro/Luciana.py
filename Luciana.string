@@ -1,0 +1,6 @@
+a = "olá, Luciana Viana!"
+print(a.upper())
+
+price = 60
+txt = "o preço é {} reais"
+print(txt.format(price))
