@@ -1,2 +1,0 @@
-a = "olá, Luciana!"
-print(a.upper())
